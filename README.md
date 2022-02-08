@@ -20,6 +20,9 @@ Journal Entries are scored using the Google Sentiment API.
 
 Mood scores are then displayed on the calendar using colors.
 
+## Video Demos  
+[![Journaling Example Demo](https://img.youtube.com/vi/bNHp4SGcRhk/0.jpg)](https://youtu.be/bNHp4SGcRhk)  
+
 ## Backend Setup
 
 Install Docker
